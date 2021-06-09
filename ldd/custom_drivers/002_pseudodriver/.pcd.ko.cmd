@@ -1,0 +1,1 @@
+cmd_/home/narayan/workspace/ldd/custom_drivers/002_pseudodriver/pcd.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/narayan/workspace/ldd/custom_drivers/002_pseudodriver/pcd.ko /home/narayan/workspace/ldd/custom_drivers/002_pseudodriver/pcd.o /home/narayan/workspace/ldd/custom_drivers/002_pseudodriver/pcd.mod.o;  true
