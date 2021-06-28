@@ -1,0 +1,1 @@
+cmd_/home/narayan/workspace/ldd/custom_drivers/004_platformdrv/platform_device/modules.order := {   echo /home/narayan/workspace/ldd/custom_drivers/004_platformdrv/platform_device/platformdev.ko; :; } | awk '!x[$$0]++' - > /home/narayan/workspace/ldd/custom_drivers/004_platformdrv/platform_device/modules.order

@@ -1,0 +1,1 @@
+cmd_/home/narayan/workspace/ldd/custom_drivers/003_npseudodriver/Module.symvers := sed 's/ko$$/o/' /home/narayan/workspace/ldd/custom_drivers/003_npseudodriver/modules.order | scripts/mod/modpost -m -a   -o /home/narayan/workspace/ldd/custom_drivers/003_npseudodriver/Module.symvers -e -i Module.symvers   -T -

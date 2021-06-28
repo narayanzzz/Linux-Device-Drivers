@@ -1,0 +1,1 @@
+cmd_/home/narayan/workspace/ldd/custom_drivers/004_platformdrv/platform_driver/platformdrv.mod := { echo  /home/narayan/workspace/ldd/custom_drivers/004_platformdrv/platform_driver/platformdrv.o;  echo; } > /home/narayan/workspace/ldd/custom_drivers/004_platformdrv/platform_driver/platformdrv.mod

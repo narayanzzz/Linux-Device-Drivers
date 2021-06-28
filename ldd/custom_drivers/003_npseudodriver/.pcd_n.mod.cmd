@@ -1,0 +1,1 @@
+cmd_/home/narayan/workspace/ldd/custom_drivers/003_npseudodriver/pcd_n.mod := { echo  /home/narayan/workspace/ldd/custom_drivers/003_npseudodriver/pcd_n.o;  echo; } > /home/narayan/workspace/ldd/custom_drivers/003_npseudodriver/pcd_n.mod
